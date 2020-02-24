@@ -1,5 +1,5 @@
 # 用于删除项目中没有引用的图片
-## 原理 利用`python`和`bash`命令, 遍历项目中的图片, 如果没有就执行`delete`\
+## 原理 利用`python`和`bash`命令, 遍历项目中的图片, 如果没有就执行`delete`
 搜索图片
 ```
 os.popen('echo $PATH')
